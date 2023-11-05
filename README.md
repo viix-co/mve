@@ -28,6 +28,9 @@ Simon Fuhrmann, Fabian Langguth and Michael Goesele<br>
 In: *Proceedings of the Eurographics Workshop on Graphics and Cultural
 Heritage, Darmstadt, Germany, 2014.*
 
+**UMVE - user interface for MVE**
+Ultimate MVE - front-end Qt-based application called UMVE — is built on top of these libraries, for inspection of the datasets.
+
 # Building MVE and UMVE
 
 To download and build MVE, type:
