@@ -1,4 +1,4 @@
-# Introduction ![Build Status](https://travis-ci.org/simonfuhrmann/mve.svg?branch=master)
+# MVE (Multi-View Environment). Introduction ![Build Status](https://travis-ci.org/simonfuhrmann/mve.svg?branch=master)
 
 The Multi-View Environment, MVE, is an implementation of a complete
 end-to-end pipeline for image-based geometry reconstruction. It features
